@@ -18,13 +18,15 @@ Chat Nest is a simple real-time chat website where users can send and receive me
 
 ⚙️ Setup Instructions
 
-1. Clone the repository
-   bash
+  
+  bash
    git clone https://github.com/divyanshu-90/chat-nest.git
    cd chat-nest
 
 
    ##backend cd server npm install npm run dev
+
+   
    ##frontend cd client npm install npm start
    
    
